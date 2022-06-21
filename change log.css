@@ -1,0 +1,7 @@
+html{
+    background: none;
+}
+.cannot-use-a{
+    color: grey;
+    cursor: not-allowed;
+}
